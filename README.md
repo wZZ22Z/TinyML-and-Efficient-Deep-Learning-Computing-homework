@@ -13,5 +13,3 @@ The project is divided into four labs, each addressing a critical aspect of Tiny
 
 ## Google Colab for code execution and experimentation.
 
-
-- 
