@@ -14,7 +14,8 @@ The project is divided into four labs, each addressing a critical aspect of Tiny
 ## Google Colab for code execution and experimentation.
 
 ## Lab 4
-#### Computation Intensity = \frac{\text{FLOP}}{\text{Byte}}. 
+#### Computation Intensity 
+- intentsity = #FLOP/#Byte
 - High computation intensity means computation bound, low computation intensity implies memory bound.
 #### GEMV( General Matrix-Vector Multiplication), #FLOP = 2mn
 #### wikitext-2
