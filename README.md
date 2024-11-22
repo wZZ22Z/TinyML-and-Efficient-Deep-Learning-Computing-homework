@@ -13,3 +13,17 @@ The project is divided into four labs, each addressing a critical aspect of Tiny
 
 ## Google Colab for code execution and experimentation.
 
+## Lab 4
+#### Computation Intensity = \frac{\text{FLOP}}{\text{Byte}}. 
+- High computation intensity means computation bound, low computation intensity implies memory bound.
+#### GEMV( General Matrix-Vector Multiplication), #FLOP = 2mn
+#### wikitext-2
+- Extracted from high-quality Wikipedia articles, cleaned and curated
+- generally used for language models
+#### Perplexity
+- Perplexity is a performace metric representing the level of uncertainty or confusion a model has when predicting the next word in a sequence.
+- Low perplexity: Indicates that the model is confident and assigns higher probabilities to the correct next word.
+- High perplexity: Indicates that the model has low confidence and assigns lower probabilities to the correct next word.
+- examples: If perplexity = 10, the model will choose from 10 possible candidates for the next word.
+
+
